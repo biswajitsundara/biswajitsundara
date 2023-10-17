@@ -1,4 +1,4 @@
-[![Banner](https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1696464000&v=beta&t=hDOaRjLTsB_wiZnqca3h9MV92bdclrzpu5BY4cByS60)](https://biswajitsundara.github.io/)
+[![Banner](https://coding.blog/img/account-banner.svg)](https://biswajitsundara.github.io/)
 
 <h1 align="center">Hi 👋, I'm Biswajit Sundara</h1>
 <h3 align="center">A passionate web developer with a strong background in software engineering.</h3>
