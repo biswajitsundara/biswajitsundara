@@ -20,8 +20,8 @@
 ## 🚀 Live Links
 
 - 🌐 **Website**: [https://biswajitsundara.github.io/](https://biswajitsundara.github.io/)  
-- 🛠 **Component Library**: [https://bisdocs.github.io/hello-react/](https://bisdocs.github.io/hello-react/)  
-- 📖 **React Documentation**: [https://bisdocs.github.io/ghewar-docs/](https://bisdocs.github.io/ghewar-docs/)  
+- 📖 **React Documentation**: [https://bisdocs.github.io/hello-react/](https://bisdocs.github.io/hello-react/)  
+- 🛠 **React Component Library**: [https://bisdocs.github.io/ghewar-docs/](https://bisdocs.github.io/ghewar-docs/)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
