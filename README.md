@@ -7,11 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajitsundara&label=Profile%20views&color=0e75b6&style=flat" alt="biswajitsundara" /> </p>
 
-- 🔭 I’m currently working on **React component library**
+- 🔭 I’m currently working on **Building AI agents**
 
-- 🌱 I’m currently learning **react**
-
-- 💬 Ask me about **react, typescript, selenium**
+- 💬 Ask me about **AI agents, RAG, LLM, MCP**
 
 - 📫 How to reach me **web.biswajit.sundara@gmail.com**
   
