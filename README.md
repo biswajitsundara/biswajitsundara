@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **AI agents, RAG, LLM, MCP**
 
-- 📫 How to reach me **web.biswajit.sundara@gmail.com**
+- 📫 How to reach me **web.biswajitsundara@gmail.com**
   
 - ⚡ Fun fact: **I watch technical videos at 2x speed, so sometimes regular talking sounds slow to me!**
 
@@ -26,7 +26,6 @@
 <a href="https://linkedin.com/in/biswajitsundara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswajitsundara" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,9 +59,9 @@
   <img src="https://img.shields.io/badge/AI-Deep_Evals-success?style=for-the-badge&logo=python&logoColor=white" alt="Deep Evals" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajitsundara" alt="biswajitsundara" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajitsundara" alt="biswajitsundara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajitsundara" alt="biswajitsundara" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajitsundara" alt="biswajitsundara" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajitsundara&" alt="biswajitsundara" /></p>
 
